@@ -1,1 +1,1 @@
-# blind-75-sheet
+# Blind 75 Sheet (C++)
